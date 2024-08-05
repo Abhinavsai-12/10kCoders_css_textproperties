@@ -1,0 +1,101 @@
+         body{
+            background-color: rgb(205, 191, 191);
+        } 
+        p{
+            display: inline-block;
+            box-sizing: border-box;
+            border: 1px solid black;
+            padding:20px; 
+            width: 250px;
+            height: 100px;
+            margin: 20px;
+            margin-left: 30px;
+            font-size: 22px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .sb1,.sb2,.sb3,.sb4,.sb5,.sb6,.sb7,.sb8,.sb9,.sb10,.sb11,.sb12,.sb13,.sb14,.sb15,.sb16{
+            border: 1px solid black;
+            box-sizing: border-box;
+            display: inline-block;
+            padding-top: 30px;
+            margin-top: 50px;
+            margin-left: 90px; 
+        }
+
+
+
+      .sb1:hover {
+      font-family: 'Courier New', Courier, monospace;
+      text-align: left;
+      }
+      .sb2:hover { 
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+    }
+      .sb3:hover { 
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: justify;
+      }
+      .sb4:hover { 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: right;
+      }
+
+
+      
+      .sb5:hover { 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        direction: ltr;
+      }
+      .sb6:hover { 
+        font-family: 'Times New Roman', Times, serif;
+        direction: rtl;
+      }
+      .sb7:hover { 
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+      .sb8:hover { 
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+
+
+      .sb9:hover {
+        text-shadow: 2px 2px 2px rgb(236, 135, 180);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+      .sb10:hover {
+        text-shadow: 3px 2px 2px rgb(84, 210, 232);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+      .sb11:hover {
+        text-shadow: 3px 3px 3px rgb(243, 16, 16);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      }
+      .sb12:hover {
+        text-shadow: 3px 3px 3px rgb(6, 249, 71);
+        text-shadow: 5px 5px 5px rgb(3, 169, 252);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+
+
+      .sb13:hover { 
+        font-family: cursive;
+        text-decoration: 2px solid red underline;
+      }
+      .sb14:hover { 
+        font-family: Helvetica;
+        text-decoration: 3px dashed black underline;
+      }
+      .sb15:hover { 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-decoration: 5px solid black overline;
+      }
+      .sb16:hover { 
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-decoration: 4px solid black line-through;
+      }
+     
